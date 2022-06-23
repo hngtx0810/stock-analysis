@@ -154,5 +154,6 @@ Refactoring code makes it easier to read, run, and organize. You can also run th
 
 ### The Advantages of Refactoring Stock Analysis
 As a result of refactoring our code, the runtime decreases comparing to the orginal analysis. While the original analysis took about 1 second to run, this analysis I did only took around 0.15 seconds.
-2017.png
-2018.png
+<img width="941" alt="2017" src="https://user-images.githubusercontent.com/107019804/175432793-74e6e4f5-d5c5-4644-859f-e469499563a8.png">
+<img width="946" alt="2018" src="https://user-images.githubusercontent.com/107019804/175432800-cfe8df58-8a61-4ae3-b1b4-874ee747a015.png">
+
